@@ -26,6 +26,10 @@ We're building a flexible, **modular SDK** that will be used across all of our f
 - Realistic **water physics** using custom **HLSL material nodes**.
 - Plans to add **dynamic biomes and weather systems** for immersive environments.
 
+### 🪐 High Performance Planetary Like Rounded Landscape Material Function  [ Best Part is -(No Custom Gravity Necesarry and No Need to Change Existing Models or Maps.)]
+- Makes Flat Landscapes Appear to bend at a distance and if the function call is applied to things above ground then they to will bend over the horizon line.
+- Serves as a Replacement for the need of Real Planets as multiplayer gravity for ships is still being worked on By The Creator of MGT.
+
 ### ⚙️ Modular SDK for Content Creation
 - Built with **custom blueprints**, **HLSL nodes**, and **HTML widget integration**.
 - Focus on modding flexibility for developers looking to **extend our game features**.
