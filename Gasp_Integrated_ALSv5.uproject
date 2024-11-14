@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.4",
+	"EngineAssociation": "5.5",
 	"Category": "Samples",
 	"Description": "",
 	"Plugins": [
@@ -32,10 +32,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Chooser",
-			"Enabled": true
-		},
-		{
 			"Name": "RigLogic",
 			"Enabled": true
 		},
@@ -63,6 +59,10 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
+		},
+		{
+			"Name": "Chooser",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "1673045636"
